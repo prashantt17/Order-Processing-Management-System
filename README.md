@@ -402,13 +402,3 @@ Coding style: follow standard Spring Boot / Java conventions. Consider configuri
 
 Specify your license here (for example, MIT). If you want, I can add a `LICENSE` file to the repo.
 
----
-
-If you’d like, I can:
-
-* generate a `docker-compose.yml` for a Postgres + app dev stack,
-* add Flyway with an initial migration file and configure it,
-* create a GitHub Actions workflow template for build/test/publish,
-* or prepare Kubernetes manifests / Helm chart for cluster deployment.
-
-Which of these do you want me to add to the repo next?
